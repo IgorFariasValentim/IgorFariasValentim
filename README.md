@@ -42,29 +42,37 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 <div align="center">
 
 ### Main Skills
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript" alt="JavaScript" />
+</p>
 
 ### Tools
-![VS](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows)&nbsp;
-![Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office)&nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8" alt="Visual Studio" />&nbsp;
+  <img src="https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code" alt="VS Code" />&nbsp;
+  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github" alt="GitHub" />&nbsp;
+  <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows" alt="Windows" />&nbsp;
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office" alt="Microsoft Office" />
+</p>
 
 ### Other Knowledge
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5" alt="HTML" />&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />&nbsp;
+  <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql" alt="MySQL" />&nbsp;
+  <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma" alt="Figma" />
+</p>
 
 ### Currently Studying
-![Gamemaker](https://img.shields.io/badge/-Gamemaker-0D1117?style=for-the-badge&logo=gamemaker&logoColor=purple)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=54C5F8)&nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/-Gamemaker-0D1117?style=for-the-badge&logo=gamemaker&logoColor=purple" alt="Gamemaker" />&nbsp;
+  <img src="https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter" />
+</p>
 
 </div>
 
@@ -72,20 +80,19 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 ## 📫 Vamos nos conectar?
 
-<div align="center">
+<p align="center">
   <a href="mailto:igorfarias5999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/igorfariasvalentim/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+</p>
 
 <br>
 
-<div align="center">
-  <p><b>Visitors Count</b></p>  
-  <img src="https://profile-counter.glitch.me/IgorFariasValentim/count.svg" alt="Visitor Count" /> 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IgorFariasValentim&color=2362ff&style=for-the-badge&label=VISITAS" alt="Visitor Count" /> 
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2362ff&height=120&section=footer"/>
