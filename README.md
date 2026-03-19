@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About me
 
-I am a developer in constant evolution, focused on creating efficient solutions and improving my skills with code and versioning. When I'm not focused on the screen programming, I like to keep my body and mind active. I practice calisthenics, enjoy solving Rubik's cubes, and adventuring in text-based RPG games. I also have a strong creative side, dedicating my free time to drawing and editing videos and photos!
+I am a developer in constant evolution, focused on creating efficient solutions and improving my skills with code and versioning. When I'm not focused on the screen programming, I like to keep my body and mind active. I practice calisthenics and enjoy solving Rubik's cubes. I also have a strong creative side, dedicating my free time to drawing and editing videos and photos!
 
 ---
 
@@ -48,7 +48,7 @@ I am a developer in constant evolution, focused on creating efficient solutions 
 ### Main Skills
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6" alt="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=nodedotjs" alt="Node.js" />&nbsp;
   <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react" alt="React" />&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript" alt="JavaScript" />
 </p>
@@ -59,7 +59,7 @@ I am a developer in constant evolution, focused on creating efficient solutions 
   <img src="https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />&nbsp;
   <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
-  <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows" />&nbsp;
+  <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />&nbsp;
   <img src="https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
 </p>
 
