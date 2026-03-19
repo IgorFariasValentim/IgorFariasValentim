@@ -1,5 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2362ff&height=120&section=header"/>
 
+<div align="right">
+  <i>🌍 Read in: <b>English</b> | <a href="README-pt.md">Português</a></i>
+</div>
+
 <h1 align="center">👋 Hello, I'm Igor Farias Valentim!</h1>
 
 <p align="center">
@@ -10,13 +14,13 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
-Sou um desenvolvedor em constante evolução, focado em criar soluções eficientes e aprimorar minhas habilidades com código e versionamento. Quando não estou focado na tela programando, gosto de manter o corpo e a mente ativos. Sou praticante de calistenia, gosto de montar cubos mágicos. Também tenho um forte lado criativo, dedicando meu tempo livre ao desenho e à edição de vídeos e fotos!
+I am a developer in constant evolution, focused on creating efficient solutions and improving my skills with code and versioning. When I'm not focused on the screen programming, I like to keep my body and mind active. I practice calisthenics, enjoy solving Rubik's cubes, and adventuring in text-based RPG games. I also have a strong creative side, dedicating my free time to drawing and editing videos and photos!
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorFariasValentim&show_icons=true&count_private=true&hide_border=true&title_color=2362ff&icon_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
@@ -37,7 +41,7 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies and Tools
 
 <div align="center">
 
@@ -51,26 +55,26 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 ### Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8" alt="Visual Studio" />&nbsp;
-  <img src="https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code" alt="VS Code" />&nbsp;
-  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github" alt="GitHub" />&nbsp;
-  <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows" alt="Windows" />&nbsp;
-  <img src="https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office" alt="Microsoft Office" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=C8A2C8" alt="Visual Studio" />&nbsp;
+  <img src="https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />&nbsp;
+  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
+  <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows" />&nbsp;
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
 </p>
 
 ### Other Knowledge
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5" alt="HTML" />&nbsp;
+  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />&nbsp;
   <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />&nbsp;
-  <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />&nbsp;
-  <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql" alt="MySQL" />&nbsp;
-  <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />&nbsp;
+  <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>
 
 ### Currently Studying
 <p align="center">
-  <img src="https://img.shields.io/badge/-Gamemaker-0D1117?style=for-the-badge&logo=gamemaker&logoColor=purple" alt="Gamemaker" />&nbsp;
+  <img src="https://img.shields.io/badge/-Gamemaker-0D1117?style=for-the-badge&logo=gamemaker&logoColor=white" alt="Gamemaker" />&nbsp;
   <img src="https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter" />
 </p>
 
@@ -78,7 +82,7 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📫 Let's connect?
 
 <p align="center">
   <a href="mailto:igorfarias5999@gmail.com">
@@ -92,7 +96,7 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IgorFariasValentim&color=2362ff&style=for-the-badge&label=VISITAS" alt="Visitor Count" /> 
+  <img src="https://komarev.com/ghpvc/?username=IgorFariasValentim&color=2362ff&style=for-the-badge&label=VISITORS" alt="Visitor Count" /> 
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2362ff&height=120&section=footer"/>
