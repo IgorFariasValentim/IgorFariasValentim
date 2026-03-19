@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor em constante evolução, focado em criar soluções eficientes e aprimorar minhas habilidades com código e versionamento. Quando não estou focado na tela programando, gosto de manter o corpo e a mente ativos. Sou praticante de calistenia, adoro o raciocínio lógico de resolver diversos tipos de cubo mágico e me divirto imerso em jogos de RPG de texto. Também tenho um forte lado criativo, dedicando meu tempo livre ao desenho e à edição de vídeos e fotos!
+Sou um desenvolvedor em constante evolução, focado em criar soluções eficientes e aprimorar minhas habilidades com código e versionamento. Quando não estou focado na tela programando, gosto de manter o corpo e a mente ativos. Sou praticante de calistenia, gosto de montar cubos mágicos. Também tenho um forte lado criativo, dedicando meu tempo livre ao desenho e à edição de vídeos e fotos!
 
 ---
 
@@ -73,10 +73,10 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 ## 📫 Vamos nos conectar?
 
 <div align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:igorfarias5999@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
   </a>&nbsp;
-  <a href="LINK_DO_SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/igorfariasvalentim/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
 </div>
