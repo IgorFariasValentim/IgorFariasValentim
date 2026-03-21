@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor em constante evolução, focado em criar soluções eficientes e aprimorar minhas habilidades com código e versionamento. Quando não estou focado na tela programando, gosto de manter o corpo e a mente ativos. Sou praticante de calistenia, gosto de montar cubos mágicos e de me aventurar em jogos de RPG de texto. Também tenho um forte lado criativo, dedicando meu tempo livre ao desenho e à edição de vídeos e fotos!
+Sou um desenvolvedor em constante evolução, focado em criar soluções eficientes e aprimorar minhas habilidades com código e versionamento. Quando não estou focado na tela programando, gosto de manter o corpo e a mente ativos. Sou praticante de calistenia e gosto de montar cubos mágicos. Também tenho um forte lado criativo, dedicando meu tempo livre ao desenho e à edição de vídeos e fotos!
 
 ---
 
