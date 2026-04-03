@@ -41,6 +41,16 @@ I am a developer in constant evolution, focused on creating efficient solutions 
 
 ---
 
+## 🎧 Currently Playing
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ajkhlyk5i35r3k7ikakildvznu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ajkhlyk5i35r3k7ikakildvznu&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color=2362ff&font_color=c9d1d9" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Technologies and Tools
 
 <div align="center">
