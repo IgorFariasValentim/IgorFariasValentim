@@ -41,6 +41,16 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 ---
 
+## 🎧 Tocando Agora
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ajkhlyk5i35r3k7ikakildvznu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ajkhlyk5i35r3k7ikakildvznu&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color=2362ff&font_color=c9d1d9" alt="Spotify Tocando Agora" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
