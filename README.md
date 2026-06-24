@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2362ff&height=120&section=header"/>
+<img width="100%" src="./igorok.png" alt="Banner IgorFV"/>
 
 <div align="right">
   <i>🌍 Read in: <b>English</b> | <a href="README-pt.md">Português</a></i>
