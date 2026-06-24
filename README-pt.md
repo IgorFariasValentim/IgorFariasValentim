@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2362ff&height=120&section=header"/>
+<img width="100%" src="./igorok.png" alt="Banner IgorFV"/>
 
 <div align="right">
-  <i>🌍 Leia em: <a href="README.md">English</a> | <b>Português</b></i>
+  <i>🌍 Read in: <b>English</b> | <a href="README-pt.md">Português</a></i>
 </div>
 
 <h1 align="center">👋 Olá, eu sou o Igor Farias Valentim!</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=2362ff&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Igor+Farias+Valentim;Estudo+análise+e+desenvolvimento+de+sistemas;Seja+Bem-vindo!+:%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-Stack+Júnior;Especialista+em+PHP,+Laravel,+Java+e+Vue.js;Entusiasta+em+IA+e+Engenharia+de+Prompt;Bem-vindo+ao+meu+perfil!+:%29" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,22 +16,80 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor em constante evolução, focado em criar soluções eficientes e aprimorar minhas habilidades com código e versionamento. Quando não estou focado na tela programando, gosto de manter o corpo e a mente ativos. Sou praticante de calistenia e gosto de montar cubos mágicos. Também tenho um forte lado criativo, dedicando meu tempo livre ao desenho e à edição de vídeos e fotos!
+Sou um **Desenvolvedor Full-Stack** residente em Fortaleza, CE, apaixonado por construir aplicações robustas, eficientes e escaláveis. Possuo formação técnica em Desenvolvimento de Sistemas e estou em constante evolução, explorando o ecossistema web moderno e integrando Inteligência Artificial para automação e melhoria de processos.
+
+Quando não estou focado na tela programando, gosto de manter o corpo e a mente ativos. Pratico calistenia, adoro resolver cubos mágicos e tenho um lado criativo forte, dedicando meu tempo livre ao desenho e à edição de vídeos e fotos!
+
+* 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (EEEP Comendador Miguel Gurgel).
+* 🗣️ **Idiomas:** Português (Nativo) | Inglês (Intermediário - em curso).
+* 🎯 **Objetivo:** Atuar como Desenvolvedor Full-Stack Júnior/Trainee.
+
+---
+
+## 💼 Experiência Profissional
+
+**Desenvolvedor Freelancer** | *2026 - Presente*
+> Atuo no desenvolvimento sob demanda de aplicações, websites e projetos completos. Trabalho desde o planejamento até a implementação utilizando **PHP/Laravel, Vue.js, JavaScript e MySQL**, entregando soluções focadas em desempenho, usabilidade e arquitetura de banco de dados.
+
+**Estagiário Full-Stack - ITIA** | *2025*
+> Desenvolvi e mantive aplicações web com **PHP (Laravel), JavaScript, HTML, CSS e MySQL**. Estruturei fluxos de sistema e interfaces responsivas junto à UniAteneu (Messejana). Também apliquei Engenharia de Prompt e IA para apoiar a automação e produtividade da equipe.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+
+### Front-end
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+</p>
+
+### Back-end & Banco de Dados
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### Cloud, Ferramentas & IA
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Engenharia_de_Prompt-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+</p>
+
+</div>
+
+---
+
+## 📜 Cursos e Certificações
+
+* ☁️ **AWS Academy:** Cloud Web Services (Amazon Web Services)
+* 🌐 **Huawei Enterprise:** ICT Academy
+* 💻 **Desenvolvimento Web Completo:** HTML, CSS, JavaScript, Vue.js e Git (Udemy)
+* ☕ **Programação Orientada a Objetos com Java:** (Udemy)
+* 🐘 **Desenvolvimento Backend com PHP, Laravel e MySQL:** (Udemy)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorFariasValentim&show_icons=true&count_private=true&hide_border=true&title_color=2362ff&icon_color=2362ff&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFariasValentim&layout=compact&hide_border=true&title_color=2362ff&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorFariasValentim&show_icons=true&count_private=true&hide_border=true&title_color=2362ff&icon_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFariasValentim&layout=compact&hide_border=true&title_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorFariasValentim&bg_color=0d1117&color=c9d1d9&line=2362ff&point=ffffff&area=true&hide_border=true&locale=pt-br" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorFariasValentim&bg_color=0d1117&color=c9d1d9&line=2362ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </p>
 
@@ -45,50 +103,9 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ajkhlyk5i35r3k7ikakildvznu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ajkhlyk5i35r3k7ikakildvznu&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color=2362ff&font_color=c9d1d9" alt="Spotify Tocando Agora" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ajkhlyk5i35r3k7ikakildvznu&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color=2362ff&font_color=c9d1d9" alt="Spotify Now Playing" />
   </a>
 </p>
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-<div align="center">
-
-### Principais Habilidades
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6" alt="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js" alt="Node.js" />&nbsp;
-  <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript" alt="JavaScript" />
-</p>
-
-### Ferramentas
-<p align="center">
-  <img src="https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=C8A2C8" alt="Visual Studio" />&nbsp;
-  <img src="https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />&nbsp;
-  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
-  <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows" />&nbsp;
-  <img src="https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
-</p>
-
-### Outros Conhecimentos
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />&nbsp;
-  <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />&nbsp;
-  <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />&nbsp;
-  <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-</p>
-
-### Estudando Atualmente
-<p align="center">
-  <img src="https://img.shields.io/badge/-Gamemaker-0D1117?style=for-the-badge&logo=gamemaker&logoColor=white" alt="Gamemaker" />&nbsp;
-  <img src="https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter" />
-</p>
-
-</div>
 
 ---
 
