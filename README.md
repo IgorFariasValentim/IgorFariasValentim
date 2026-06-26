@@ -14,6 +14,21 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/igorfariasvalentim/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/igorfv" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.TO" />
+  </a>
+  <a href="https://www.behance.net/igorfarias5" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="mailto:igorfarias5999@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About me
@@ -84,6 +99,12 @@ When I'm not focused on programming, I like to keep my body and mind active. I p
 <br>
 
 <div align="center">
+  <img src="https://metrics.lecoq.io/IgorFariasValentim?template=classic&base=activity&config.timezone=America/Fortaleza&config.theme=dark" alt="GitHub Metrics Activity" />
+</div>
+
+<br>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorFariasValentim/IgorFariasValentim/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorFariasValentim/IgorFariasValentim/output/github-contribution-grid-snake.svg">
@@ -110,17 +131,6 @@ When I'm not focused on programming, I like to keep my body and mind active. I p
 </div>
 
 ---
-
-## 📫 Let's connect?
-
-<div align="center">
-  <a href="mailto:igorfarias5999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/igorfariasvalentim/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
 
 <br>
 
