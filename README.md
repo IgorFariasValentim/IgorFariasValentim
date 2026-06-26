@@ -43,14 +43,6 @@ When I'm not focused on programming, I like to keep my body and mind active. I p
 
 ---
 
-## 🎨 My Creative Side
-
-Beyond lines of code, I am deeply invested in creative world-building and superhero lore. Currently, I am structuring plans to establish an independent comic book (HQ) publishing house to bring these unique narratives to life. 
-
-My main creative endeavor revolves around the universe of **A TERRA EM 2028: A ERA DOS VETORES**. Within this setting, I develop intricate character arcs, such as the story of Elias Trindade, also known as O Soberano.
-
----
-
 ## 💼 Professional Experience
 
 **Freelance Developer** | *2026 - Present*
