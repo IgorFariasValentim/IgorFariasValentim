@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/IgorFariasValentim">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Junior+Full-Stack+Developer;Specialist+in+PHP,+Laravel,+Java,+and+Vue.js;AI+and+Prompt+Engineering+Enthusiast;Welcome+to+my+profile!+:%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Junior+Full-Stack+Developer;Specialist+in+PHP,+Laravel,+Java,+and+Vue.js;AI+and+Prompt+Engineering+Enthusiast;Welcome+to+my+profile!+:%29" alt="Typing SVG" />
   </a>
 </p>
 
