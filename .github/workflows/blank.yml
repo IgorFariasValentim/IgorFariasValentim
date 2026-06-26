@@ -14,6 +14,10 @@ on:
     - master
     - main
 
+# PERMISSÃO NECESSÁRIA PARA O BOT SALVAR A IMAGEM NO REPOSITÓRIO
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
