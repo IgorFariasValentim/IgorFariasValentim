@@ -4,11 +4,28 @@
   <i>🌍 Leia em: <a href="README.md">English</a> | <b>Português</b></i>
 </div>
 
-<h1 align="center">👋 Olá, eu sou o Igor Farias Valentim!</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, eu sou o Igor Farias Valentim!
+</h1>
 
 <p align="center">
   <a href="https://github.com/IgorFariasValentim">
     <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-Stack+J%C3%BAnior;Especialista+em+PHP,+Laravel,+Java+e+Vue.js;Entusiasta+em+IA+e+Engenharia+de+Prompt;Bem-vindo+ao+meu+perfil!+:%29" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/igorfariasvalentim/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/igorfv" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.TO" />
+  </a>
+  <a href="https://www.behance.net/igorfarias5" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="mailto:igorfarias5999@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -29,7 +46,7 @@ Quando não estou focado na tela programando, gosto de manter o corpo e a mente 
 ## 💼 Experiência Profissional
 
 **Desenvolvedor Freelancer** | *2026 - Presente*
-> Atuo no desenvolvimento sob demanda de aplicações, websites e projetos completos. Trabalho desde o planejamento até a implementação utilizando **PHP/Laravel, Vue.js, JavaScript e MySQL**, entregando soluções focadas em desempenho, usabilidade e arquitetura de banco de dados.
+> Atuo no desenvolvimento sob demanda de aplicações, websites e projetos completos. Trabalho desde o planejamento até a implementação utilizando **PHP/Laravel, Vue.js, JavaScript e MySQL**, entregando soluções focadas em desempenho, usabilidade e arquitetura de banco de dados. Atualmente, também colaboro com um grupo de fundadores em um novo empreendimento, que envolve a transição do nosso nome anterior, Xpert Dev, para a identidade de uma nova empresa de tecnologia.
 
 **Estagiário Full-Stack - ITIA** | *2025*
 > Desenvolvi e mantive aplicações web com **PHP (Laravel), JavaScript, HTML, CSS e MySQL**. Estruturei fluxos de sistema e interfaces responsivas junto à UniAteneu (Messejana). Também apliquei Engenharia de Prompt e IA para apoiar a automação e produtividade da equipe.
@@ -56,6 +73,7 @@ Quando não estou focado na tela programando, gosto de manter o corpo e a mente 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
   <img src="https://img.shields.io/badge/Engenharia_de_Prompt-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
 
 </div>
@@ -77,6 +95,12 @@ Quando não estou focado na tela programando, gosto de manter o corpo e a mente 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorFariasValentim&show_icons=true&count_private=true&hide_border=true&title_color=2362ff&icon_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFariasValentim&layout=compact&hide_border=true&title_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorFariasValentim&theme=dark&hide_border=true&background=0d1117&ring=2362ff&fire=2362ff&currStreakNum=c9d1d9&currStreakLabel=2362ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -108,17 +132,6 @@ Quando não estou focado na tela programando, gosto de manter o corpo e a mente 
 </div>
 
 ---
-
-## 📫 Vamos nos conectar?
-
-<div align="center">
-  <a href="mailto:igorfarias5999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/igorfariasvalentim/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
 
 <br>
 
