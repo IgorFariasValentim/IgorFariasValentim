@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/IgorFariasValentim">
-    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-Stack+Júnior;Especialista+em+PHP,+Laravel,+Java+e+Vue.js;Entusiasta+em+IA+e+Engenharia+de+Prompt;Bem-vindo+ao+meu+perfil!+:%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-Stack+J%C3%BAnior;Especialista+em+PHP,+Laravel,+Java+e+Vue.js;Entusiasta+em+IA+e+Engenharia+de+Prompt;Bem-vindo+ao+meu+perfil!+:%29" alt="Typing SVG" />
   </a>
 </p>
 
