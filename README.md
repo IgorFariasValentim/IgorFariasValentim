@@ -1,4 +1,4 @@
-<img width="100%" src="./igorok.png" alt="Banner IgorFV"/>
+<img width="100%" src="./banner1.png" alt="Banner IgorFV"/>
 
 <div align="right">
   <i>🌍 Read in: <b>English</b> | <a href="README-pt.md">Português</a></i>
