@@ -4,7 +4,7 @@
   <i>🌍 Read in: <b>English</b> | <a href="README-pt.md">Português</a></i>
 </div>
 
-<h1 align="center">👋 Hello, I'm Igor Farias Valentim!</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35"> Hello, I'm Igor Farias Valentim!</h1>
 
 <p align="center">
   <a href="https://github.com/IgorFariasValentim">
