@@ -81,12 +81,6 @@ When I'm not focused on programming, I like to keep my body and mind active. I p
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IgorFariasValentim&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
-
-<br>
-
 <!-- INÍCIO DA ANIMAÇÃO DA COBRINHA -->
 <div align="center">
   <h3>🐍 My Contributions Snake</h3>
