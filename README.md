@@ -43,10 +43,18 @@ When I'm not focused on programming, I like to keep my body and mind active. I p
 
 ---
 
+## 🎨 My Creative Side
+
+Beyond lines of code, I am deeply invested in creative world-building and superhero lore. Currently, I am structuring plans to establish an independent comic book (HQ) publishing house to bring these unique narratives to life. 
+
+My main creative endeavor revolves around the universe of **A TERRA EM 2028: A ERA DOS VETORES**. Within this setting, I develop intricate character arcs, such as the story of Elias Trindade, also known as O Soberano.
+
+---
+
 ## 💼 Professional Experience
 
 **Freelance Developer** | *2026 - Present*
-> I develop on-demand applications, websites, and complete projects. I handle everything from planning to implementation using **PHP/Laravel, Vue.js, JavaScript, and MySQL**, delivering solutions focused on performance, usability, and database architecture.
+> I develop on-demand applications, websites, and complete projects. I handle everything from planning to implementation using **PHP/Laravel, Vue.js, JavaScript, and MySQL**, delivering solutions focused on performance, usability, and database architecture. Currently, I am also collaborating with a group of founders on a new business venture, which involves transitioning from our previous name, Xpert Dev, to a new technology company identity.
 
 **Full-Stack Intern - ITIA** | *2025*
 > Developed and maintained web applications using **PHP (Laravel), JavaScript, HTML, CSS, and MySQL**. Structured system flows and responsive interfaces for UniAteneu (Messejana). I also applied AI and Prompt Engineering to support team automation and productivity.
@@ -73,6 +81,7 @@ When I'm not focused on programming, I like to keep my body and mind active. I p
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
 
 </div>
@@ -99,7 +108,7 @@ When I'm not focused on programming, I like to keep my body and mind active. I p
 <br>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/IgorFariasValentim?template=classic&base=activity&config.timezone=America/Fortaleza&config.theme=dark" alt="GitHub Metrics Activity" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorFariasValentim&theme=dark&hide_border=true&background=0d1117&ring=2362ff&fire=2362ff&currStreakNum=c9d1d9&currStreakLabel=2362ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <br>
