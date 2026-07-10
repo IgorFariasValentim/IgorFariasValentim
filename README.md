@@ -38,20 +38,9 @@
 
 ## 👨‍💻 About me
 
-```typescript
-const igor = {
-  role: "Full-Stack Developer",
-  location: "Fortaleza, CE 🇧🇷",
-  stack: ["PHP", "Laravel", "Vue.js", "Java", "JavaScript", "MySQL"],
-  exploring: ["AI Automation", "Prompt Engineering", "Modern Web"],
-  askMeAbout: ["web dev", "ai workflows", "ui design", "rubik's cubes 🧩"],
-  funFact: "I train calisthenics and draw in my free time ✏️"
-};
-```
+I am a **Full-Stack Developer** based in Fortaleza, CE, passionate about building robust, efficient, and scalable applications. I have a technical degree in Systems Development and I am constantly evolving — exploring the modern web ecosystem and integrating **Artificial Intelligence** for automation and process improvement.
 
-I am a **Full-Stack Developer** passionate about building robust, efficient, and scalable applications. I have a technical degree in Systems Development and I am constantly evolving — exploring the modern web ecosystem and integrating **Artificial Intelligence** for automation and process improvement.
-
-When I'm not coding, I keep body and mind active: I practice **calisthenics**, solve **Rubik's cubes**, and dedicate my free time to **drawing** and **video/photo editing**.
+When I'm not focused on programming, I like to keep my body and mind active. I practice **calisthenics** and enjoy solving **Rubik's cubes**. I also have a strong creative side, dedicating my free time to **drawing** and editing **videos and photos**!
 
 > 🎓 **Education:** Systems Development Technician (EEEP Comendador Miguel Gurgel)  
 > 🗣️ **Languages:** Portuguese (Native) | English (Intermediate — in progress)  
@@ -101,20 +90,6 @@ When I'm not coding, I keep body and mind active: I practice **calisthenics**, s
 
 ---
 
-## 📌 Featured Projects
-
-<!-- Troque os nomes dos repositórios abaixo pelos seus repositórios reais em destaque -->
-<div align="center">
-  <a href="https://github.com/IgorFariasValentim/NOME-DO-REPO-1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IgorFariasValentim&repo=NOME-DO-REPO-1&hide_border=true&title_color=2362ff&icon_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="Projeto 1" />
-  </a>
-  <a href="https://github.com/IgorFariasValentim/NOME-DO-REPO-2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IgorFariasValentim&repo=NOME-DO-REPO-2&hide_border=true&title_color=2362ff&icon_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="Projeto 2" />
-  </a>
-</div>
-
----
-
 ## 📜 Courses and Certifications
 
 * ☁️ **AWS Academy:** Cloud Web Services (Amazon Web Services)
@@ -122,14 +97,6 @@ When I'm not coding, I keep body and mind active: I practice **calisthenics**, s
 * 💻 **Complete Web Development:** HTML, CSS, JavaScript, Vue.js, and Git (Udemy)
 * ☕ **Object-Oriented Programming with Java:** (Udemy)
 * 🐘 **Backend Development with PHP, Laravel, and MySQL:** (Udemy)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IgorFariasValentim&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
