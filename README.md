@@ -10,8 +10,13 @@
 
 <p align="center">
   <a href="https://github.com/IgorFariasValentim">
-    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Junior+Full-Stack+Developer;Specialist+in+PHP,+Laravel,+Java,+and+Vue.js;AI+and+Prompt+Engineering+Enthusiast;Welcome+to+my+profile!+:%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;PHP+%7C+Laravel+%7C+Java+%7C+Vue.js;Building+products+with+AI+%26+Prompt+Engineering;From+idea+to+deploy+%F0%9F%9A%80;Welcome+to+my+profile!+:%29" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Junior%2FTrainee%20Full--Stack-2362ff?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Based%20in-Fortaleza%2C%20CE%20%F0%9F%87%A7%F0%9F%87%B7-0d1117?style=for-the-badge" alt="Location" />
 </p>
 
 <p align="center">
@@ -33,22 +38,33 @@
 
 ## 👨‍💻 About me
 
-I am a **Full-Stack Developer** based in Fortaleza, CE, passionate about building robust, efficient, and scalable applications. I have a technical degree in Systems Development and I am constantly evolving, exploring the modern web ecosystem and integrating Artificial Intelligence for automation and process improvement.
+```typescript
+const igor = {
+  role: "Full-Stack Developer",
+  location: "Fortaleza, CE 🇧🇷",
+  stack: ["PHP", "Laravel", "Vue.js", "Java", "JavaScript", "MySQL"],
+  exploring: ["AI Automation", "Prompt Engineering", "Modern Web"],
+  askMeAbout: ["web dev", "ai workflows", "ui design", "rubik's cubes 🧩"],
+  funFact: "I train calisthenics and draw in my free time ✏️"
+};
+```
 
-When I'm not focused on programming, I like to keep my body and mind active. I practice calisthenics and enjoy solving Rubik's cubes. I also have a strong creative side, dedicating my free time to drawing and editing videos and photos!
+I am a **Full-Stack Developer** passionate about building robust, efficient, and scalable applications. I have a technical degree in Systems Development and I am constantly evolving — exploring the modern web ecosystem and integrating **Artificial Intelligence** for automation and process improvement.
 
-> 🎓 **Education:** Systems Development Technician (EEEP Comendador Miguel Gurgel).  
-> 🗣️ **Languages:** Portuguese (Native) | English (Intermediate - in progress).  
-> 🎯 **Objective:** Junior/Trainee Full-Stack Developer.  
+When I'm not coding, I keep body and mind active: I practice **calisthenics**, solve **Rubik's cubes**, and dedicate my free time to **drawing** and **video/photo editing**.
+
+> 🎓 **Education:** Systems Development Technician (EEEP Comendador Miguel Gurgel)  
+> 🗣️ **Languages:** Portuguese (Native) | English (Intermediate — in progress)  
+> 🎯 **Objective:** Junior/Trainee Full-Stack Developer  
 
 ---
 
 ## 💼 Professional Experience
 
-**Freelance Developer** | *2026 - Present*
-> I develop on-demand applications, websites, and complete projects. I handle everything from planning to implementation using **PHP/Laravel, Vue.js, JavaScript, and MySQL**, delivering solutions focused on performance, usability, and database architecture. Currently, I am also collaborating with a group of founders on a new business venture, which involves transitioning from our previous name, Xpert Dev, to a new technology company identity.
+**Freelance Developer** | *2026 — Present*
+> I develop on-demand applications, websites, and complete projects — from planning to implementation — using **PHP/Laravel, Vue.js, JavaScript, and MySQL**, delivering solutions focused on performance, usability, and database architecture. Currently, I am also collaborating with a group of founders on a new technology company.
 
-**Full-Stack Intern - ITIA** | *2025*
+**Full-Stack Intern — ITIA** | *2025*
 > Developed and maintained web applications using **PHP (Laravel), JavaScript, HTML, CSS, and MySQL**. Structured system flows and responsive interfaces for UniAteneu (Messejana). I also applied AI and Prompt Engineering to support team automation and productivity.
 
 ---
@@ -62,6 +78,7 @@ When I'm not focused on programming, I like to keep my body and mind active. I p
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
   ### Back-end & Database
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -69,13 +86,31 @@ When I'm not focused on programming, I like to keep my body and mind active. I p
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
+  ### Design & Creative
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+
   ### Cloud, Tools & AI
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
 
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<!-- Troque os nomes dos repositórios abaixo pelos seus repositórios reais em destaque -->
+<div align="center">
+  <a href="https://github.com/IgorFariasValentim/NOME-DO-REPO-1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IgorFariasValentim&repo=NOME-DO-REPO-1&hide_border=true&title_color=2362ff&icon_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="Projeto 1" />
+  </a>
+  <a href="https://github.com/IgorFariasValentim/NOME-DO-REPO-2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IgorFariasValentim&repo=NOME-DO-REPO-2&hide_border=true&title_color=2362ff&icon_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="Projeto 2" />
+  </a>
 </div>
 
 ---
@@ -87,6 +122,14 @@ When I'm not focused on programming, I like to keep my body and mind active. I p
 * 💻 **Complete Web Development:** HTML, CSS, JavaScript, Vue.js, and Git (Udemy)
 * ☕ **Object-Oriented Programming with Java:** (Udemy)
 * 🐘 **Backend Development with PHP, Laravel, and MySQL:** (Udemy)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IgorFariasValentim&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -133,10 +176,21 @@ When I'm not focused on programming, I like to keep my body and mind active. I p
 
 ---
 
+## 🤝 Let's Connect!
+
+<div align="center">
+  💬 Open to collaborations, freelance projects, and junior full-stack opportunities.<br>
+  📫 Reach me at <a href="mailto:igorfarias5999@gmail.com"><b>igorfarias5999@gmail.com</b></a> or on <a href="https://www.linkedin.com/in/igorfariasvalentim/"><b>LinkedIn</b></a>.
+</div>
+
 <br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=IgorFariasValentim&color=2362ff&style=for-the-badge&label=VISITORS" alt="Visitor Count" /> 
+</div>
+
+<div align="center">
+  <sub>⚡ <i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House</sub>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2362ff&height=120&section=footer"/>
