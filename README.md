@@ -112,13 +112,6 @@ I care about the full picture: from the **design and interface** of a product to
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorFariasValentim&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=2362ff&icon_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFariasValentim&layout=compact&hide_border=true&cache_seconds=86400&title_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorFariasValentim&theme=dark&hide_border=true&background=0d1117&ring=2362ff&fire=2362ff&currStreakNum=c9d1d9&currStreakLabel=2362ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
