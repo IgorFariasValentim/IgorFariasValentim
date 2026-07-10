@@ -15,7 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Junior%2FTrainee%20Full--Stack-2362ff?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Full--Stack-Web%20Design%20%7C%20Cybersecurity-2362ff?style=for-the-badge" alt="Roles" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Junior%2FTrainee-16a34a?style=for-the-badge" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Based%20in-Fortaleza%2C%20CE%20%F0%9F%87%A7%F0%9F%87%B7-0d1117?style=for-the-badge" alt="Location" />
 </p>
 
@@ -38,9 +39,9 @@
 
 ## 👨‍💻 About me
 
-I am a **Full-Stack Developer** based in Fortaleza, CE, passionate about building robust, efficient, and scalable applications. I have a technical degree in Systems Development and I am constantly evolving — exploring the modern web ecosystem and integrating **Artificial Intelligence** for automation and process improvement.
+I am a **Full-Stack Developer** and **Web Designer** based in Fortaleza, CE, passionate about building robust, efficient, and scalable applications. I have a technical degree in Systems Development, I'm currently **studying Cybersecurity**, and I am constantly evolving — exploring the modern web ecosystem and integrating **Artificial Intelligence** for automation and process improvement.
 
-When I'm not focused on programming, I like to keep my body and mind active. I practice **calisthenics** and enjoy solving **Rubik's cubes**. I also have a strong creative side, dedicating my free time to **drawing** and editing **videos and photos**!
+I care about the full picture: from the **design and interface** of a product to its **back-end architecture and security**. When I'm not focused on programming, I like to keep my body and mind active. I practice **calisthenics** and enjoy solving **Rubik's cubes**. I also have a strong creative side, dedicating my free time to **drawing** and editing **videos and photos**!
 
 > 🎓 **Education:** Systems Development Technician (EEEP Comendador Miguel Gurgel)  
 > 🗣️ **Languages:** Portuguese (Native) | English (Intermediate — in progress)  
@@ -77,7 +78,12 @@ When I'm not focused on programming, I like to keep my body and mind active. I p
 
   ### Design & Creative
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+
+  ### Security & Networking
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 
   ### Cloud, Tools & AI
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -103,8 +109,8 @@ When I'm not focused on programming, I like to keep my body and mind active. I p
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorFariasValentim&show_icons=true&count_private=true&hide_border=true&title_color=2362ff&icon_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFariasValentim&layout=compact&hide_border=true&title_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorFariasValentim&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=2362ff&icon_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFariasValentim&layout=compact&hide_border=true&cache_seconds=86400&title_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br>
