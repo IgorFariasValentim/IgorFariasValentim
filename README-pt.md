@@ -15,7 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para%20Trabalho-Full--Stack%20J%C3%BAnior%2FTrainee-2362ff?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Full--Stack-Web%20Design%20%7C%20Seguran%C3%A7a-2362ff?style=for-the-badge" alt="Roles" />
+  <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para%20Trabalho-J%C3%BAnior%2FTrainee-16a34a?style=for-the-badge" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Fortaleza%2C%20CE%20%F0%9F%87%A7%F0%9F%87%B7-0d1117?style=for-the-badge" alt="Location" />
 </p>
 
@@ -38,9 +39,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um **Desenvolvedor Full-Stack** residente em Fortaleza, CE, apaixonado por construir aplicações robustas, eficientes e escaláveis. Possuo formação técnica em Desenvolvimento de Sistemas e estou em constante evolução, explorando o ecossistema web moderno e integrando **Inteligência Artificial** para automação e melhoria de processos.
+Sou um **Desenvolvedor Full-Stack** e **Web Designer** residente em Fortaleza, CE, apaixonado por construir aplicações robustas, eficientes e escaláveis. Possuo formação técnica em Desenvolvimento de Sistemas, atualmente **estudo Segurança Cibernética** e estou em constante evolução, explorando o ecossistema web moderno e integrando **Inteligência Artificial** para automação e melhoria de processos.
 
-Quando não estou focado na tela programando, gosto de manter o corpo e a mente ativos. Pratico **calistenia** e adoro resolver **cubos mágicos**. Também tenho um lado criativo forte, dedicando meu tempo livre ao **desenho** e à edição de **vídeos e fotos**!
+Me importo com o produto por inteiro: do **design e da interface** até a **arquitetura de back-end e a segurança**. Quando não estou focado na tela programando, gosto de manter o corpo e a mente ativos. Pratico **calistenia** e adoro resolver **cubos mágicos**. Também tenho um lado criativo forte, dedicando meu tempo livre ao **desenho** e à edição de **vídeos e fotos**!
 
 > 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (EEEP Comendador Miguel Gurgel).  
 > 🗣️ **Idiomas:** Português (Nativo) | Inglês (Intermediário - em curso).  
@@ -77,7 +78,12 @@ Quando não estou focado na tela programando, gosto de manter o corpo e a mente 
 
   ### Design & Criativo
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+
+  ### Segurança & Redes
+  <img src="https://img.shields.io/badge/Seguran%C3%A7a_Cibern%C3%A9tica-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 
   ### Cloud, Ferramentas & IA
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -103,8 +109,8 @@ Quando não estou focado na tela programando, gosto de manter o corpo e a mente 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorFariasValentim&show_icons=true&count_private=true&hide_border=true&title_color=2362ff&icon_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFariasValentim&layout=compact&hide_border=true&title_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorFariasValentim&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=2362ff&icon_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFariasValentim&layout=compact&hide_border=true&cache_seconds=86400&title_color=2362ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br>
