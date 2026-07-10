@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/IgorFariasValentim">
-    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;PHP+%7C+Laravel+%7C+Java+%7C+Vue.js;Building+products+with+AI+%26+Prompt+Engineering;From+idea+to+deploy+%F0%9F%9A%80;Welcome+to+my+profile!+:%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+%26+Web+Designer;Cybersecurity+Student;Building+products+with+AI+%26+Prompt+Engineering;From+idea+to+deploy+%F0%9F%9A%80;Welcome+to+my+profile!+:%29" alt="Typing SVG" />
   </a>
 </p>
 
