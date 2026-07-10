@@ -15,9 +15,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Web%20Design%20%7C%20Cybersecurity-2362ff?style=for-the-badge" alt="Roles" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Junior%2FTrainee-16a34a?style=for-the-badge" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Based%20in-Fortaleza%2C%20CE%20%F0%9F%87%A7%F0%9F%87%B7-0d1117?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Full--Stack-2362ff?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Web%20Design%20%7C%20Cybersecurity-1e3a8a?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work%20%C2%B7%20Junior%2FTrainee-16a34a?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Fortaleza%2C%20CE%20%F0%9F%87%A7%F0%9F%87%B7-0d1117?style=for-the-badge" alt="Location" />
 </p>
 
 <p align="center">
@@ -67,6 +68,7 @@ I care about the full picture: from the **design and interface** of a product to
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
@@ -74,6 +76,7 @@ I care about the full picture: from the **design and interface** of a product to
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
   ### Design & Creative
