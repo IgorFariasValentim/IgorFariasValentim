@@ -1,4 +1,4 @@
-<img width="100%" src="./Capa GitHub Ultra Wide.png" alt="Banner IgorFV"/>
+<img width="100%" src="./Capa%20GitHub%20Ultra%20Wide.png" alt="Banner IgorFV"/>
 
 <div align="right">
   <i>🌍 Leia em: <a href="README.md">English</a> | <b>Português</b></i>
@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Web%20Design%20%7C%20Seguran%C3%A7a-1e3a8a?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20%C2%B7%20J%C3%BAnior%2FTrainee-16a34a?style=for-the-badge" alt="Open to Work" />
   <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Fortaleza%2C%20CE%20%F0%9F%87%A7%F0%9F%87%B7-0d1117?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Fortaleza%2C%20CE%20%F0%9F%87%A7%F0%9F%87%B7-0d1117?style=for-the-badge" alt="Location" />
 </p>
 
 <p align="center">
@@ -54,7 +53,7 @@ Me importo com o produto por inteiro: do **design e da interface** até a **arqu
 ## 💼 Experiência Profissional
 
 **Desenvolvedor Freelancer** | *2026 - Presente*
-> Atuo no desenvolvimento sob demanda de aplicações, websites e projetos completos. Trabalho desde o planejamento até a implementação utilizando **PHP/Laravel, Vue.js, JavaScript e MySQL**, entregando soluções focadas em desempenho, usabilidade e arquitetura de banco de dados. Atualmente, também colaboro com um grupo de fundadores em uma nova empresa de tecnologia.
+> Atuo no desenvolvimento sob demanda de aplicações, websites e projetos completos. Trabalho desde o planejamento até a implementação utilizando **PHP/Laravel, Vue.js, React, Node.js, JavaScript e MySQL**, entregando soluções focadas em desempenho, usabilidade e arquitetura de banco de dados. Atualmente, também colaboro com um grupo de fundadores em uma nova empresa de tecnologia.
 
 **Estagiário Full-Stack - ITIA** | *2025*
 > Desenvolvi e mantive aplicações web com **PHP (Laravel), JavaScript, HTML, CSS e MySQL**. Estruturei fluxos de sistema e interfaces responsivas junto à UniAteneu (Messejana). Também apliquei Engenharia de Prompt e IA para apoiar a automação e produtividade da equipe.
@@ -65,15 +64,18 @@ Me importo com o produto por inteiro: do **design e da interface** até a **arqu
 
 <div align="center">
 
-  ### Front-end
+  ### Front-end & Mobile
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
   ### Back-end & Banco de Dados
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -113,7 +115,7 @@ Me importo com o produto por inteiro: do **design e da interface** até a **arqu
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorFariasValentim&theme=dark&hide_border=true&background=0d1117&ring=2362ff&fire=2362ff&currStreakNum=c9d1d9&currStreakLabel=2362ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=IgorFariasValentim&theme=dark&hide_border=true&background=0d1117&ring=2362ff&fire=2362ff&currStreakNum=c9d1d9&currStreakLabel=2362ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
 <br>
