@@ -1,4 +1,4 @@
-<img width="100%" src="./Capa GitHub Ultra Wide.png" alt="Banner IgorFV"/>
+<img width="100%" src="./capa-github-ultra-wide.png" alt="Banner IgorFV"/>
 
 <div align="right">
   <i>🌍 Read in: <b>English</b> | <a href="README-pt.md">Português</a></i>
@@ -53,7 +53,7 @@ I care about the full picture: from the **design and interface** of a product to
 ## 💼 Professional Experience
 
 **Freelance Developer** | *2026 — Present*
-> I develop on-demand applications, websites, and complete projects — from planning to implementation — using **PHP/Laravel, Vue.js, JavaScript, and MySQL**, delivering solutions focused on performance, usability, and database architecture. Currently, I am also collaborating with a group of founders on a new technology company.
+> I develop on-demand applications, websites, and complete projects — from planning to implementation — using **PHP/Laravel, Vue.js, React, Node.js, JavaScript, and MySQL**, delivering solutions focused on performance, usability, and database architecture. Currently, I am also collaborating with a group of founders on a new technology company.
 
 **Full-Stack Intern — ITIA** | *2025*
 > Developed and maintained web applications using **PHP (Laravel), JavaScript, HTML, CSS, and MySQL**. Structured system flows and responsive interfaces for UniAteneu (Messejana). I also applied AI and Prompt Engineering to support team automation and productivity.
@@ -64,15 +64,18 @@ I care about the full picture: from the **design and interface** of a product to
 
 <div align="center">
 
-  ### Front-end
+  ### Front-end & Mobile
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
   ### Back-end & Database
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -112,7 +115,7 @@ I care about the full picture: from the **design and interface** of a product to
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorFariasValentim&theme=dark&hide_border=true&background=0d1117&ring=2362ff&fire=2362ff&currStreakNum=c9d1d9&currStreakLabel=2362ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=IgorFariasValentim&theme=dark&hide_border=true&background=0d1117&ring=2362ff&fire=2362ff&currStreakNum=c9d1d9&currStreakLabel=2362ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <br>
