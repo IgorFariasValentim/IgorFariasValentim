@@ -1,4 +1,4 @@
-<img width="100%" src="./capa-github-ultra-wide.png" alt="Banner IgorFV"/>
+<img width="100%" src="./Capa%20GitHub%20Ultra%20Wide.png" alt="Banner IgorFV"/>
 
 <div align="right">
   <i>🌍 Read in: <b>English</b> | <a href="README-pt.md">Português</a></i>
