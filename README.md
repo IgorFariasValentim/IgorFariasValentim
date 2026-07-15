@@ -36,14 +36,6 @@
   </a>
 </p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./portrait-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./portrait-light.svg">
-    <img alt="ASCII portrait of Igor Farias" src="./portrait-dark.svg" width="420">
-  </picture>
-</div>
-
 ---
 
 ## 👨‍💻 About me
@@ -52,13 +44,13 @@ I am a **Full-Stack Developer** and **Web Designer** based in Fortaleza, CE, pas
 
 I care about the full picture: from the **design and interface** of a product to its **back-end architecture and security**. When I'm not focused on programming, I like to keep my body and mind active. I practice **calisthenics** and enjoy solving **Rubik's cubes**. I also have a strong creative side, dedicating my free time to **drawing** and editing **videos and photos**!
 
-> 🎓 **Education:**  
-> • Technologist in Artificial Intelligence — UNIFOR (in progress, 2028) · Full CEBAS scholarship  
-> • Technologist in Cybersecurity — UNIASSELVI (in progress, 2028)  
-> • Systems Development Technician — EEEP Comendador Miguel Gurgel  
+> 🎓 **Education:** 
+> • Technologist in Artificial Intelligence — UNIFOR (in progress, 2028) · Full CEBAS scholarship 
+> • Technologist in Cybersecurity — UNIASSELVI (in progress, 2028) 
+> • Systems Development Technician — EEEP Comendador Miguel Gurgel 
 > 
-> 🗣️ **Languages:** Portuguese (Native) | English (Intermediate — in progress)  
-> 🎯 **Objective:** Junior/Trainee Full-Stack Developer  
+> 🗣️ **Languages:** Portuguese (Native) | English (Intermediate — in progress) 
+> 🎯 **Objective:** Junior/Trainee Full-Stack Developer 
 
 ---
 
