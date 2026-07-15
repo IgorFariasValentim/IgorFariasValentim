@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://github.com/IgorFariasValentim">
-    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+%26+Web+Designer;Cybersecurity+Student;Building+products+with+AI+%26+Prompt+Engineering;From+idea+to+deploy+%F0%9F%9A%80;Welcome+to+my+profile!+:%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+%26+Web+Designer;Cybersecurity+%26+AI+Student;Building+products+with+AI+%26+Prompt+Engineering;From+idea+to+deploy+%F0%9F%9A%80;Welcome+to+my+profile!+:%29" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-2362ff?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Web%20Design%20%7C%20Cybersecurity-1e3a8a?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Cybersecurity%20%7C%20AI-1e3a8a?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Open%20to%20Work%20%C2%B7%20Junior%2FTrainee-16a34a?style=for-the-badge" alt="Open to Work" />
   <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Fortaleza%2C%20CE%20%F0%9F%87%A7%F0%9F%87%B7-0d1117?style=for-the-badge" alt="Location" />
 </p>
@@ -40,11 +40,15 @@
 
 ## 👨‍💻 About me
 
-I am a **Full-Stack Developer** and **Web Designer** based in Fortaleza, CE, passionate about building robust, efficient, and scalable applications. I have a technical degree in Systems Development, I'm currently **studying Cybersecurity**, and I am constantly evolving — exploring the modern web ecosystem and integrating **Artificial Intelligence** for automation and process improvement.
+I am a **Full-Stack Developer** and **Web Designer** based in Fortaleza, CE, passionate about building robust, efficient, and scalable applications. I hold a technical degree in Systems Development and am currently pursuing **two technologist degrees — in Cybersecurity and in Artificial Intelligence** — while constantly exploring the modern web ecosystem and integrating **AI** for automation and process improvement.
 
 I care about the full picture: from the **design and interface** of a product to its **back-end architecture and security**. When I'm not focused on programming, I like to keep my body and mind active. I practice **calisthenics** and enjoy solving **Rubik's cubes**. I also have a strong creative side, dedicating my free time to **drawing** and editing **videos and photos**!
 
-> 🎓 **Education:** Systems Development Technician (EEEP Comendador Miguel Gurgel)  
+> 🎓 **Education:**  
+> • Technologist in Artificial Intelligence — UNIFOR (in progress, 2028) · Full CEBAS scholarship  
+> • Technologist in Cybersecurity — UNIASSELVI (in progress, 2028)  
+> • Systems Development Technician — EEEP Comendador Miguel Gurgel  
+> 
 > 🗣️ **Languages:** Portuguese (Native) | English (Intermediate — in progress)  
 > 🎯 **Objective:** Junior/Trainee Full-Stack Developer  
 
