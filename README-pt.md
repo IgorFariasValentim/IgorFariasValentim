@@ -36,6 +36,14 @@
   </a>
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./portrait-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./portrait-light.svg">
+    <img alt="Retrato em ASCII do Igor Farias" src="./portrait-dark.svg" width="420">
+  </picture>
+</div>
+
 ---
 
 ## 👨‍💻 Sobre mim
