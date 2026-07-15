@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://github.com/IgorFariasValentim">
-    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-Stack+%26+Web+Designer;Estudante+de+Seguran%C3%A7a+Cibern%C3%A9tica;Construindo+produtos+com+IA+%26+Engenharia+de+Prompt;Da+ideia+ao+deploy+%F0%9F%9A%80;Bem-vindo+ao+meu+perfil!+:%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-Stack+%26+Web+Designer;Estudante+de+Seguran%C3%A7a+Cibern%C3%A9tica+%26+IA;Construindo+produtos+com+IA+%26+Engenharia+de+Prompt;Da+ideia+ao+deploy+%F0%9F%9A%80;Bem-vindo+ao+meu+perfil!+:%29" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-2362ff?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Web%20Design%20%7C%20Seguran%C3%A7a-1e3a8a?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Seguran%C3%A7a%20%7C%20IA-1e3a8a?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20%C2%B7%20J%C3%BAnior%2FTrainee-16a34a?style=for-the-badge" alt="Open to Work" />
   <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Fortaleza%2C%20CE%20%F0%9F%87%A7%F0%9F%87%B7-0d1117?style=for-the-badge" alt="Location" />
 </p>
@@ -40,13 +40,17 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um **Desenvolvedor Full-Stack** e **Web Designer** residente em Fortaleza, CE, apaixonado por construir aplicações robustas, eficientes e escaláveis. Possuo formação técnica em Desenvolvimento de Sistemas, atualmente **estudo Segurança Cibernética** e estou em constante evolução, explorando o ecossistema web moderno e integrando **Inteligência Artificial** para automação e melhoria de processos.
+Sou um **Desenvolvedor Full-Stack** e **Web Designer** residente em Fortaleza, CE, apaixonado por construir aplicações robustas, eficientes e escaláveis. Possuo formação técnica em Desenvolvimento de Sistemas e atualmente curso **dois tecnólogos — em Segurança Cibernética e em Inteligência Artificial** — enquanto exploro constantemente o ecossistema web moderno e integro **IA** para automação e melhoria de processos.
 
 Me importo com o produto por inteiro: do **design e da interface** até a **arquitetura de back-end e a segurança**. Quando não estou focado na tela programando, gosto de manter o corpo e a mente ativos. Pratico **calistenia** e adoro resolver **cubos mágicos**. Também tenho um lado criativo forte, dedicando meu tempo livre ao **desenho** e à edição de **vídeos e fotos**!
 
-> 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (EEEP Comendador Miguel Gurgel).  
-> 🗣️ **Idiomas:** Português (Nativo) | Inglês (Intermediário - em curso).  
-> 🎯 **Objetivo:** Atuar como Desenvolvedor Full-Stack Júnior/Trainee.  
+> 🎓 **Formação:**  
+> • Tecnólogo em Inteligência Artificial — UNIFOR (em curso, 2028) · Bolsista integral CEBAS  
+> • Tecnólogo em Segurança Cibernética — UNIASSELVI (em curso, 2028)  
+> • Técnico em Desenvolvimento de Sistemas — EEEP Comendador Miguel Gurgel  
+> 
+> 🗣️ **Idiomas:** Português (Nativo) | Inglês (Intermediário — em curso)  
+> 🎯 **Objetivo:** Atuar como Desenvolvedor Full-Stack Júnior/Trainee  
 
 ---
 
