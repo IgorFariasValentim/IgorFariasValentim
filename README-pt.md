@@ -82,6 +82,7 @@ Me importo com o produto por inteiro: do **design e da interface** até a **arqu
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -98,6 +99,8 @@ Me importo com o produto por inteiro: do **design e da interface** até a **arqu
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GameMaker" />
+  <img src="https://img.shields.io/badge/Edi%C3%A7%C3%A3o_de_V%C3%ADdeo-6E2CF4?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Edição de Vídeo" />
 
   ### Segurança & Redes
   <img src="https://img.shields.io/badge/Seguran%C3%A7a_Cibern%C3%A9tica-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
@@ -105,6 +108,7 @@ Me importo com o produto por inteiro: do **design e da interface** até a **arqu
 
   ### Cloud, Ferramentas & IA
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
