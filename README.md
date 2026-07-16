@@ -94,15 +94,17 @@ Looking for an opportunity as a **Junior or Trainee Full-Stack Developer**, wher
 
 <div align="center">
 
-<h3>Front-end</h3>
+<h3>Front-end &amp; Mobile</h3>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue.js" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
 
 <h3>Back-end &amp; Databases</h3>
 
@@ -127,10 +129,12 @@ Looking for an opportunity as a **Junior or Trainee Full-Stack Developer**, wher
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-1e3a8a?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Artificial Intelligence" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Prompt Engineering" />
 
-<h3>Design</h3>
+<h3>Design &amp; Creative</h3>
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white" alt="Adobe Photoshop" />
+<img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&amp;logo=gamemaker&amp;logoColor=white" alt="GameMaker" />
+<img src="https://img.shields.io/badge/Video%20Editing-6E2CF4?style=for-the-badge&amp;logo=adobepremierepro&amp;logoColor=white" alt="Video Editing" />
 
 <h3>📚 Currently Learning</h3>
 
@@ -152,6 +156,20 @@ Looking for an opportunity as a **Junior or Trainee Full-Stack Developer**, wher
 ---
 
 ## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IgorFariasValentim&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=2362FF&amp;fire=2362FF&amp;currStreakNum=C9D1D9&amp;currStreakLabel=2362FF&amp;sideNums=C9D1D9&amp;sideLabels=C9D1D9&amp;dates=C9D1D9" alt="Igor's GitHub contribution streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/IgorFariasValentim">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorFariasValentim&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=2362ff&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Igor's GitHub activity graph" />
+  </a>
+</div>
+
+<br />
 
 <div align="center">
   <picture>
