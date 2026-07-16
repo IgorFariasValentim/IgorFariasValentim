@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/IgorFariasValentim">
-    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-Stack+%26+Web+Designer;Estudante+de+Seguran%C3%A7a+Cibern%C3%A9tica+%26+IA;Construindo+produtos+com+IA+%26+Engenharia+de+Prompt;Da+ideia+ao+deploy+%F0%9F%9A%80;Bem-vindo+ao+meu+perfil!+:%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-Stack+%26+Web+Designer;Estudante+de+Seguran%C3%A7a+Cibern%C3%A9tica+%26+IA;Construindo+produtos+com+IA+%26+Engenharia+de+Prompt;Da+ideia+ao+deploy+%F0%9F%9A%80;Estudando+Astro+%26+Go+%F0%9F%93%9A;Bem-vindo+ao+meu+perfil!+:%29" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,14 +35,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./portrait-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./portrait-light.svg">
-    <img alt="Retrato em ASCII do Igor Farias" src="./portrait-dark.svg" width="420">
-  </picture>
-</div>
 
 ---
 
@@ -113,6 +105,10 @@ Me importo com o produto por inteiro: do **design e da interface** até a **arqu
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
   <img src="https://img.shields.io/badge/Engenharia_de_Prompt-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+
+  ### 📚 Estudando Atualmente
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
 
 </div>
 
