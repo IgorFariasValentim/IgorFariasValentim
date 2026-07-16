@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/IgorFariasValentim">
-    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+%26+Web+Designer;Cybersecurity+%26+AI+Student;Building+products+with+AI+%26+Prompt+Engineering;From+idea+to+deploy+%F0%9F%9A%80;Welcome+to+my+profile!+:%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?color=2362ff&size=30&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+%26+Web+Designer;Cybersecurity+%26+AI+Student;Building+products+with+AI+%26+Prompt+Engineering;From+idea+to+deploy+%F0%9F%9A%80;Currently+learning+Astro+%26+Go+%F0%9F%93%9A;Welcome+to+my+profile!+:%29" alt="Typing SVG" />
   </a>
 </p>
 
@@ -105,6 +105,10 @@ I care about the full picture: from the **design and interface** of a product to
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+
+  ### 📚 Currently Learning
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
 
 </div>
 
