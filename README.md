@@ -69,12 +69,11 @@ Looking for an opportunity as a **Junior or Trainee Full-Stack Developer**, wher
 - Focus on usability, maintainability, performance, and practical business needs.
 - Collaborate with a group of founders on an early-stage technology company.
 
-### Full-Stack Development Intern — ITIA · 2025
+### Full-Stack Development Intern — ITIA / UniAteneu · 2025
 
-- Developed and maintained web applications using **PHP, Laravel, JavaScript, HTML, CSS, and MySQL**.
-- Created responsive interfaces and structured system flows for UniAteneu's Messejana campus.
-- Supported application maintenance and the implementation of new features.
-- Applied **AI and Prompt Engineering** to improve team automation and productivity.
+- **AI Development (Lovable & LLMs):** Applied Prompt Engineering and used the Lovable platform to prototype and develop institutional websites for colleges and internal projects, ensuring agility and technical innovation.
+- **Asset Management & Documentation:** Structured processes within Google Workspace (Drive, Docs) and managed strategic assets (such as VSLs and media files) to optimize the team's workflow and information access.
+- **Technical Support & Agile Planning:** Actively collaborated in project and task planning, assisting management in daily organization and aligning technical solutions with business demands.
 
 ---
 
