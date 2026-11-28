@@ -27,6 +27,9 @@
 </p>
 
 <p align="center">
+  <a href="https://igor-farias.vercel.app/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-2362FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfólio" />
+  </a>
   <a href="https://www.linkedin.com/in/igorfariasvalentim/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
