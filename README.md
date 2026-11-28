@@ -164,7 +164,7 @@ Looking for an opportunity as a **Junior or Trainee Full-Stack Developer**, wher
 
 <div align="center">
   <a href="https://github.com/IgorFariasValentim">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorFariasValentim&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=2362ff&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Igor's GitHub activity graph" />
+    <img src="https://ghchart.rshah.org/2362ff/IgorFariasValentim" alt="Igor's GitHub activity graph" />
   </a>
 </div>
 
