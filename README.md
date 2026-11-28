@@ -154,6 +154,18 @@ Looking for an opportunity as a **Junior or Trainee Full-Stack Developer**, wher
 
 ---
 
+## 🧩 Featured Public Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [gamelog](https://github.com/IgorFariasValentim/gamelog) | PHP · Laravel · Firebase | Personal system to track and organize finished games |
+| [gestorlite](https://github.com/IgorFariasValentim/gestorlite) | PHP · MySQL | Employee registration system with session auth, search, and CRUD |
+| [pomodoro-js](https://github.com/IgorFariasValentim/pomodoro-js) | HTML · CSS · JavaScript | Clean, responsive Pomodoro timer ([live demo](https://igorfariasvalentim.github.io/pomodoro-js/)) |
+| [Let-s-go-Froggie](https://github.com/IgorFariasValentim/Let-s-go-Froggie) | GameMaker · GML | 2D platformer/adventure game with NPCs, dialogs, and enemies |
+| [portfolio-completo](https://github.com/IgorFariasValentim/portfolio-completo) | HTML · CSS | Personal portfolio showcasing skills, projects, and contact |
+
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
