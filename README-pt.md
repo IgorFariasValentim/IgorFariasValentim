@@ -141,7 +141,7 @@ Sou técnico em **Desenvolvimento de Sistemas** e atualmente curso tecnólogos e
   <tr>
     <td width="33%" align="center">
       <a href="https://igor-farias.vercel.app/">
-        <img src="./assets/cards/portfolio.svg" alt="Portfólio" width="100%" />
+        <img src="https://raw.githubusercontent.com/IgorFariasValentim/IgorFariasValentim/main/assets/cards/portfolio.svg?v=2" alt="Portfólio" width="100%" />
       </a>
       <br />
       <a href="https://igor-farias.vercel.app/"><b>Portfólio</b></a>
@@ -150,7 +150,7 @@ Sou técnico em **Desenvolvimento de Sistemas** e atualmente curso tecnólogos e
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/IgorFariasValentim/plic-landing-page">
-        <img src="./assets/cards/plic.svg" alt="Plic" width="100%" />
+        <img src="https://raw.githubusercontent.com/IgorFariasValentim/IgorFariasValentim/main/assets/cards/plic.svg?v=2" alt="Plic" width="100%" />
       </a>
       <br />
       <a href="https://github.com/IgorFariasValentim/plic-landing-page"><b>Plic</b></a>
@@ -159,7 +159,7 @@ Sou técnico em **Desenvolvimento de Sistemas** e atualmente curso tecnólogos e
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/IgorFariasValentim/LlamaCheck">
-        <img src="./assets/cards/llamacheck.svg" alt="LlamaCheck" width="100%" />
+        <img src="https://raw.githubusercontent.com/IgorFariasValentim/IgorFariasValentim/main/assets/cards/llamacheck.svg?v=2" alt="LlamaCheck" width="100%" />
       </a>
       <br />
       <a href="https://github.com/IgorFariasValentim/LlamaCheck"><b>LlamaCheck</b></a>
@@ -170,7 +170,7 @@ Sou técnico em **Desenvolvimento de Sistemas** e atualmente curso tecnólogos e
   <tr>
     <td width="33%" align="center">
       <a href="https://github.com/IgorFariasValentim/MindWeaver">
-        <img src="./assets/cards/mindweaver.svg" alt="MindWeaver" width="100%" />
+        <img src="https://raw.githubusercontent.com/IgorFariasValentim/IgorFariasValentim/main/assets/cards/mindweaver.svg?v=2" alt="MindWeaver" width="100%" />
       </a>
       <br />
       <a href="https://github.com/IgorFariasValentim/MindWeaver"><b>MindWeaver</b></a>
@@ -179,7 +179,7 @@ Sou técnico em **Desenvolvimento de Sistemas** e atualmente curso tecnólogos e
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/IgorFariasValentim/CalcStep">
-        <img src="./assets/cards/calcstep.svg" alt="CalcStep" width="100%" />
+        <img src="https://raw.githubusercontent.com/IgorFariasValentim/IgorFariasValentim/main/assets/cards/calcstep.svg?v=2" alt="CalcStep" width="100%" />
       </a>
       <br />
       <a href="https://github.com/IgorFariasValentim/CalcStep"><b>CalcStep</b></a>
@@ -188,7 +188,7 @@ Sou técnico em **Desenvolvimento de Sistemas** e atualmente curso tecnólogos e
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/IgorFariasValentim/gamelog">
-        <img src="./assets/cards/gamelog.svg" alt="GameLog" width="100%" />
+        <img src="https://raw.githubusercontent.com/IgorFariasValentim/IgorFariasValentim/main/assets/cards/gamelog.svg?v=2" alt="GameLog" width="100%" />
       </a>
       <br />
       <a href="https://github.com/IgorFariasValentim/gamelog"><b>GameLog</b></a>
