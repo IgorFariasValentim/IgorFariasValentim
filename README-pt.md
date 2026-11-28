@@ -154,7 +154,7 @@ Sou técnico em **Desenvolvimento de Sistemas** e atualmente curso tecnólogos e
 
 <div align="center">
   <a href="https://github.com/IgorFariasValentim">
-    <img src="https://ghchart.rshah.org/2362ff/IgorFariasValentim" alt="Gráfico de atividade do Igor no GitHub" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorFariasValentim&amp;theme=github_dark" alt="Resumo de atividade do Igor no GitHub" />
   </a>
 </div>
 

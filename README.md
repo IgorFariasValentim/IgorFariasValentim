@@ -154,7 +154,7 @@ I hold a technical degree in **Systems Development** and am currently pursuing t
 
 <div align="center">
   <a href="https://github.com/IgorFariasValentim">
-    <img src="https://ghchart.rshah.org/2362ff/IgorFariasValentim" alt="Igor's GitHub activity graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorFariasValentim&amp;theme=github_dark" alt="Igor's GitHub activity summary" />
   </a>
 </div>
 
