@@ -15,6 +15,6 @@
   <rect x="28" y="28" width="180" height="26" rx="13" fill="#2362ff" fill-opacity="0.16" stroke="#2362ff" stroke-opacity="0.45"/>
   <text x="118" y="45" text-anchor="middle" fill="#7aa2ff" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">LIVE SITE</text>
   <text x="28" y="114" fill="#f0f6fc" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="34" font-weight="800">Portfolio</text>
-  <text x="28" y="148" fill="#9ca3af" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" font-weight="500">Full-Stack Developer & Web Designer</text>
+  <text x="28" y="148" fill="#9ca3af" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" font-weight="500">Full-Stack Developer &amp; Web Designer</text>
   <text x="28" y="208" fill="#60a5fa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600">React · TypeScript · Tailwind</text>
 </svg>
