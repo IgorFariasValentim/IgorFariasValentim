@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity%20%26%20AI-1e3a8a?style=for-the-badge" alt="Cybersecurity and AI" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Junior%20%2F%20Trainee-16a34a?style=for-the-badge" alt="Open to junior and trainee opportunities" />
   <img src="https://img.shields.io/badge/Fortaleza%2C%20CE-Brazil-0d1117?style=for-the-badge" alt="Fortaleza, Ceará, Brazil" />
+  <img src="https://komarev.com/ghpvc/?username=IgorFariasValentim&amp;color=2362ff&amp;style=for-the-badge&amp;label=VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -40,6 +41,16 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#-about-me">About</a> ·
+  <a href="#-professional-experience">Experience</a> ·
+  <a href="#-education">Education</a> ·
+  <a href="#-technologies-and-tools">Tech Stack</a> ·
+  <a href="#-featured-public-projects">Projects</a> ·
+  <a href="#-github-activity">Activity</a> ·
+  <a href="#-lets-build-something-together">Contact</a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -53,15 +64,13 @@ I hold a technical degree in **Systems Development** and am currently pursuing t
 - 🌱 Currently learning **Astro** and **Go**
 - ⚡ Outside tech, I'm into calisthenics, Rubik's cubes, drawing, and photo/video editing
 
-### 🎯 Current Objective
-
-Looking for an opportunity as a **Junior or Trainee Full-Stack Developer**, where I can contribute to real products, sharpen my engineering skills, and grow alongside an experienced team.
+> **🎯 Current Objective:** Looking for an opportunity as a **Junior or Trainee Full-Stack Developer**, where I can contribute to real products, sharpen my engineering skills, and grow alongside an experienced team.
 
 ---
 
 ## 💼 Professional Experience
 
-### Freelance Developer · 2026 — Present
+### 🚀 Freelance Developer · `2026 — Present`
 
 - Develop websites, web applications, and custom solutions from planning through implementation.
 - Work with **PHP, Laravel, Vue.js, React, Node.js, JavaScript, and MySQL**.
@@ -69,7 +78,7 @@ Looking for an opportunity as a **Junior or Trainee Full-Stack Developer**, wher
 - Focus on usability, maintainability, performance, and practical business needs.
 - Collaborate with a group of founders on an early-stage technology company.
 
-### Full-Stack Development Intern — ITIA / UniAteneu · 2025
+### 💻 Full-Stack Development Intern — ITIA / UniAteneu · `2025`
 
 - **AI Development (Lovable & LLMs):** Applied Prompt Engineering and used the Lovable platform to prototype and develop institutional websites for colleges and internal projects, ensuring agility and technical innovation.
 - **Asset Management & Documentation:** Structured processes within Google Workspace (Drive, Docs) and managed strategic assets (such as VSLs and media files) to optimize the team's workflow and information access.
@@ -93,52 +102,21 @@ Looking for an opportunity as a **Junior or Trainee Full-Stack Developer**, wher
 
 <div align="center">
 
-<h3>Front-end &amp; Mobile</h3>
+<p><strong>Core Stack &amp; Cloud</strong></p>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue.js" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,flutter,nodejs,php,laravel,python,java,mysql,aws,docker,git,github,linux,figma,ps,pr&amp;perline=11&amp;theme=dark" alt="Core Technologies and Tools" />
 
-<h3>Back-end &amp; Databases</h3>
+<br /><br />
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-
-<h3>Cloud, DevOps &amp; Tools</h3>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
-
-<h3>Security &amp; AI</h3>
+<p><strong>Security, AI, Creative &amp; Learning</strong></p>
 
 <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=white" alt="Cybersecurity" />
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-1e3a8a?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Artificial Intelligence" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Prompt Engineering" />
-
-<h3>Design &amp; Creative</h3>
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white" alt="Adobe Photoshop" />
 <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&amp;logo=gamemaker&amp;logoColor=white" alt="GameMaker" />
 <img src="https://img.shields.io/badge/Video%20Editing-6E2CF4?style=for-the-badge&amp;logo=adobepremierepro&amp;logoColor=white" alt="Video Editing" />
-
-<h3>📚 Currently Learning</h3>
-
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="Astro" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Astro%20(Learning)-BC52EE?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="Astro" />
+<img src="https://img.shields.io/badge/Go%20(Learning)-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" />
 
 </div>
 
@@ -158,11 +136,11 @@ Looking for an opportunity as a **Junior or Trainee Full-Stack Developer**, wher
 
 | Project | Stack | Description |
 |---|---|---|
-| [gamelog](https://github.com/IgorFariasValentim/gamelog) | PHP · Laravel · Firebase | Personal system to track and organize finished games |
-| [gestorlite](https://github.com/IgorFariasValentim/gestorlite) | PHP · MySQL | Employee registration system with session auth, search, and CRUD |
-| [pomodoro-js](https://github.com/IgorFariasValentim/pomodoro-js) | HTML · CSS · JavaScript | Clean, responsive Pomodoro timer ([live demo](https://igorfariasvalentim.github.io/pomodoro-js/)) |
-| [Let-s-go-Froggie](https://github.com/IgorFariasValentim/Let-s-go-Froggie) | GameMaker · GML | 2D platformer/adventure game with NPCs, dialogs, and enemies |
-| [portfolio-completo](https://github.com/IgorFariasValentim/portfolio-completo) | HTML · CSS | Personal portfolio showcasing skills, projects, and contact |
+| [gamelog](https://github.com/IgorFariasValentim/gamelog) | `PHP` · `Laravel` · `Firebase` | Personal system to track and organize finished games |
+| [gestorlite](https://github.com/IgorFariasValentim/gestorlite) | `PHP` · `MySQL` | Employee registration system with session auth, search, and CRUD |
+| [pomodoro-js](https://github.com/IgorFariasValentim/pomodoro-js) | `HTML` · `CSS` · `JavaScript` | Clean, responsive Pomodoro timer ([live demo](https://igorfariasvalentim.github.io/pomodoro-js/)) |
+| [Let-s-go-Froggie](https://github.com/IgorFariasValentim/Let-s-go-Froggie) | `GameMaker` · `GML` | 2D platformer/adventure game with NPCs, dialogs, and enemies |
+| [portfolio-completo](https://github.com/IgorFariasValentim/portfolio-completo) | `HTML` · `CSS` | Personal portfolio showcasing skills, projects, and contact |
 
 ---
 
