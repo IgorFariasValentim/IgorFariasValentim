@@ -139,11 +139,15 @@ Sou técnico em **Desenvolvimento de Sistemas** e atualmente curso tecnólogos e
 
 | Projeto | Stack | Descrição |
 |---|---|---|
+| [Portfólio](https://igor-farias.vercel.app/) | `React` · `TypeScript` · `Tailwind CSS` | Portfólio pessoal com projetos, currículo, certificados e contato |
+| [Plic](https://github.com/IgorFariasValentim/plic-landing-page) | `Next.js` · `TypeScript` · `PWA` | App de foco e memória com Repetição Espaçada (SM-2), Active Recall e treinos cognitivos |
+| [LlamaCheck](https://github.com/IgorFariasValentim/LlamaCheck) | `JavaScript` · `HTML` · `CSS` | Verificador de hardware para descobrir quais LLMs locais e quantizações rodam no seu PC |
+| [MindWeaver](https://github.com/IgorFariasValentim/MindWeaver) | `Svelte` · `Vite` | Transforma anotações ou textos soltos em um mapa mental interativo no navegador |
+| [CalcStep](https://github.com/IgorFariasValentim/CalcStep) | `JavaScript` · `HTML` · `CSS` | Resolvedor de matemática passo a passo (derivadas, integrais e equações) |
 | [gamelog](https://github.com/IgorFariasValentim/gamelog) | `PHP` · `Laravel` · `Firebase` | Sistema pessoal para registrar e organizar jogos finalizados |
 | [gestorlite](https://github.com/IgorFariasValentim/gestorlite) | `PHP` · `MySQL` | Sistema de cadastro de funcionários com login, busca e CRUD |
 | [pomodoro-js](https://github.com/IgorFariasValentim/pomodoro-js) | `HTML` · `CSS` · `JavaScript` | Timer Pomodoro simples e responsivo ([demo online](https://igorfariasvalentim.github.io/pomodoro-js/)) |
 | [Let-s-go-Froggie](https://github.com/IgorFariasValentim/Let-s-go-Froggie) | `GameMaker` · `GML` | Jogo 2D de plataforma/aventura com NPCs, diálogos e inimigos |
-| [Portfólio](https://igor-farias.vercel.app/) | `React` · `TypeScript` · `Tailwind CSS` | Portfólio pessoal com projetos, currículo, certificados e contato |
 
 ---
 
