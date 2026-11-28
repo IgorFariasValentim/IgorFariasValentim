@@ -137,17 +137,77 @@ I hold a technical degree in **Systems Development** and am currently pursuing t
 
 ## 🧩 Featured Public Projects
 
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://igor-farias.vercel.app/">
+        <img src="./assets/cards/portfolio.svg" alt="Portfolio" width="100%" />
+      </a>
+      <br />
+      <a href="https://igor-farias.vercel.app/"><b>Portfolio</b></a>
+      <br />
+      <sub>Projects, resume, certificates &amp; contact</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/IgorFariasValentim/plic-landing-page">
+        <img src="./assets/cards/plic.svg" alt="Plic" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/IgorFariasValentim/plic-landing-page"><b>Plic</b></a>
+      <br />
+      <sub>SM-2 Spaced Repetition, Active Recall &amp; Focus</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/IgorFariasValentim/LlamaCheck">
+        <img src="./assets/cards/llamacheck.svg" alt="LlamaCheck" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/IgorFariasValentim/LlamaCheck"><b>LlamaCheck</b></a>
+      <br />
+      <sub>Local LLM &amp; hardware compatibility checker</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/IgorFariasValentim/MindWeaver">
+        <img src="./assets/cards/mindweaver.svg" alt="MindWeaver" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/IgorFariasValentim/MindWeaver"><b>MindWeaver</b></a>
+      <br />
+      <sub>Text to interactive mind map in Svelte</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/IgorFariasValentim/CalcStep">
+        <img src="./assets/cards/calcstep.svg" alt="CalcStep" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/IgorFariasValentim/CalcStep"><b>CalcStep</b></a>
+      <br />
+      <sub>Step-by-step math derivation solver</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/IgorFariasValentim/gamelog">
+        <img src="./assets/cards/gamelog.svg" alt="GameLog" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/IgorFariasValentim/gamelog"><b>GameLog</b></a>
+      <br />
+      <sub>Personal finished games tracker</sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>📂 More public projects (gestorlite, pomodoro-js, Let-s-go-Froggie)</summary>
+
 | Project | Stack | Description |
 |---|---|---|
-| [Portfolio](https://igor-farias.vercel.app/) | `React` · `TypeScript` · `Tailwind CSS` | Personal portfolio showcasing projects, resume, certificates, and contact |
-| [Plic](https://github.com/IgorFariasValentim/plic-landing-page) | `Next.js` · `TypeScript` · `PWA` | Daily brain-training & focus app with SM-2 Spaced Repetition, Active Recall, and cognitive games |
-| [LlamaCheck](https://github.com/IgorFariasValentim/LlamaCheck) | `JavaScript` · `HTML` · `CSS` | Hardware checker to discover which local LLMs and quantizations run smoothly on your PC |
-| [MindWeaver](https://github.com/IgorFariasValentim/MindWeaver) | `Svelte` · `Vite` | Turns raw notes or articles into an interactive mind map diagram in the browser |
-| [CalcStep](https://github.com/IgorFariasValentim/CalcStep) | `JavaScript` · `HTML` · `CSS` | Step-by-step math solver showing derivations like a teacher (derivatives, integrals, quadratics) |
-| [gamelog](https://github.com/IgorFariasValentim/gamelog) | `PHP` · `Laravel` · `Firebase` | Personal system to track and organize finished games |
 | [gestorlite](https://github.com/IgorFariasValentim/gestorlite) | `PHP` · `MySQL` | Employee registration system with session auth, search, and CRUD |
 | [pomodoro-js](https://github.com/IgorFariasValentim/pomodoro-js) | `HTML` · `CSS` · `JavaScript` | Clean, responsive Pomodoro timer ([live demo](https://igorfariasvalentim.github.io/pomodoro-js/)) |
 | [Let-s-go-Froggie](https://github.com/IgorFariasValentim/Let-s-go-Froggie) | `GameMaker` · `GML` | 2D platformer/adventure game with NPCs, dialogs, and enemies |
+
+</details>
 
 ---
 

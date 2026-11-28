@@ -137,17 +137,77 @@ Sou técnico em **Desenvolvimento de Sistemas** e atualmente curso tecnólogos e
 
 ## 🧩 Projetos Públicos em Destaque
 
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://igor-farias.vercel.app/">
+        <img src="./assets/cards/portfolio.svg" alt="Portfólio" width="100%" />
+      </a>
+      <br />
+      <a href="https://igor-farias.vercel.app/"><b>Portfólio</b></a>
+      <br />
+      <sub>Projetos, currículo, certificados e contato</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/IgorFariasValentim/plic-landing-page">
+        <img src="./assets/cards/plic.svg" alt="Plic" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/IgorFariasValentim/plic-landing-page"><b>Plic</b></a>
+      <br />
+      <sub>Repetição Espaçada (SM-2), Active Recall e Foco</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/IgorFariasValentim/LlamaCheck">
+        <img src="./assets/cards/llamacheck.svg" alt="LlamaCheck" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/IgorFariasValentim/LlamaCheck"><b>LlamaCheck</b></a>
+      <br />
+      <sub>Compatibilidade de hardware com LLMs locais</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/IgorFariasValentim/MindWeaver">
+        <img src="./assets/cards/mindweaver.svg" alt="MindWeaver" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/IgorFariasValentim/MindWeaver"><b>MindWeaver</b></a>
+      <br />
+      <sub>Texto para mapa mental interativo em Svelte</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/IgorFariasValentim/CalcStep">
+        <img src="./assets/cards/calcstep.svg" alt="CalcStep" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/IgorFariasValentim/CalcStep"><b>CalcStep</b></a>
+      <br />
+      <sub>Resolvedor de matemática passo a passo</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/IgorFariasValentim/gamelog">
+        <img src="./assets/cards/gamelog.svg" alt="GameLog" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/IgorFariasValentim/gamelog"><b>GameLog</b></a>
+      <br />
+      <sub>Registro pessoal de jogos finalizados</sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>📂 Mais projetos públicos (gestorlite, pomodoro-js, Let-s-go-Froggie)</summary>
+
 | Projeto | Stack | Descrição |
 |---|---|---|
-| [Portfólio](https://igor-farias.vercel.app/) | `React` · `TypeScript` · `Tailwind CSS` | Portfólio pessoal com projetos, currículo, certificados e contato |
-| [Plic](https://github.com/IgorFariasValentim/plic-landing-page) | `Next.js` · `TypeScript` · `PWA` | App de foco e memória com Repetição Espaçada (SM-2), Active Recall e treinos cognitivos |
-| [LlamaCheck](https://github.com/IgorFariasValentim/LlamaCheck) | `JavaScript` · `HTML` · `CSS` | Verificador de hardware para descobrir quais LLMs locais e quantizações rodam no seu PC |
-| [MindWeaver](https://github.com/IgorFariasValentim/MindWeaver) | `Svelte` · `Vite` | Transforma anotações ou textos soltos em um mapa mental interativo no navegador |
-| [CalcStep](https://github.com/IgorFariasValentim/CalcStep) | `JavaScript` · `HTML` · `CSS` | Resolvedor de matemática passo a passo (derivadas, integrais e equações) |
-| [gamelog](https://github.com/IgorFariasValentim/gamelog) | `PHP` · `Laravel` · `Firebase` | Sistema pessoal para registrar e organizar jogos finalizados |
 | [gestorlite](https://github.com/IgorFariasValentim/gestorlite) | `PHP` · `MySQL` | Sistema de cadastro de funcionários com login, busca e CRUD |
 | [pomodoro-js](https://github.com/IgorFariasValentim/pomodoro-js) | `HTML` · `CSS` · `JavaScript` | Timer Pomodoro simples e responsivo ([demo online](https://igorfariasvalentim.github.io/pomodoro-js/)) |
 | [Let-s-go-Froggie](https://github.com/IgorFariasValentim/Let-s-go-Froggie) | `GameMaker` · `GML` | Jogo 2D de plataforma/aventura com NPCs, diálogos e inimigos |
+
+</details>
 
 ---
 
