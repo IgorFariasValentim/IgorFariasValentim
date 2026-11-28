@@ -143,7 +143,7 @@ I hold a technical degree in **Systems Development** and am currently pursuing t
 | [gestorlite](https://github.com/IgorFariasValentim/gestorlite) | `PHP` · `MySQL` | Employee registration system with session auth, search, and CRUD |
 | [pomodoro-js](https://github.com/IgorFariasValentim/pomodoro-js) | `HTML` · `CSS` · `JavaScript` | Clean, responsive Pomodoro timer ([live demo](https://igorfariasvalentim.github.io/pomodoro-js/)) |
 | [Let-s-go-Froggie](https://github.com/IgorFariasValentim/Let-s-go-Froggie) | `GameMaker` · `GML` | 2D platformer/adventure game with NPCs, dialogs, and enemies |
-| [portfolio-completo](https://github.com/IgorFariasValentim/portfolio-completo) | `HTML` · `CSS` | Personal portfolio showcasing skills, projects, and contact |
+| [Portfolio](https://igor-farias.vercel.app/) | `React` · `TypeScript` · `Tailwind CSS` | Personal portfolio showcasing projects, resume, certificates, and contact |
 
 ---
 

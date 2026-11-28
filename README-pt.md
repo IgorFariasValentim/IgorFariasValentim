@@ -143,7 +143,7 @@ Sou técnico em **Desenvolvimento de Sistemas** e atualmente curso tecnólogos e
 | [gestorlite](https://github.com/IgorFariasValentim/gestorlite) | `PHP` · `MySQL` | Sistema de cadastro de funcionários com login, busca e CRUD |
 | [pomodoro-js](https://github.com/IgorFariasValentim/pomodoro-js) | `HTML` · `CSS` · `JavaScript` | Timer Pomodoro simples e responsivo ([demo online](https://igorfariasvalentim.github.io/pomodoro-js/)) |
 | [Let-s-go-Froggie](https://github.com/IgorFariasValentim/Let-s-go-Froggie) | `GameMaker` · `GML` | Jogo 2D de plataforma/aventura com NPCs, diálogos e inimigos |
-| [portfolio-completo](https://github.com/IgorFariasValentim/portfolio-completo) | `HTML` · `CSS` | Portfólio pessoal com habilidades, projetos e contato |
+| [Portfólio](https://igor-farias.vercel.app/) | `React` · `TypeScript` · `Tailwind CSS` | Portfólio pessoal com projetos, currículo, certificados e contato |
 
 ---
 
